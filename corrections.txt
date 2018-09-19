@@ -1,0 +1,6 @@
+1)print('df.shape = ',df.shape)
+
+
+2)print ('C=',C_value,' gamma=',gamma_value)
+        print ('M1 : ',model1_score,' M2 : ',model2_score,' M3 : ',model3_score ,'M avg',(model1_score+model2_score+model3_score)/3 )
+        print ('T1 : ',test1_score,' T2 : ',test2_score,' T3 : ',test3_score ,'T avg',(test1_score+test2_score+test3_score)/3)

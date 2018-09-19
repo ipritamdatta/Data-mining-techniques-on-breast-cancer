@@ -1,4 +1,4 @@
-# Investigating Breast Cancer
+# Data Mining Techniques on Breast Cancer
 Apply machine learning on UCI dataset to get prediction model to detect breast cancer is malignant or benign. Each record represents follow-up data for one breast cancer case. These are consecutive patients seen by *Dr. Wolberg* since 1984, and include only those cases exhibiting invasive breast cancer and no evidence of distant metastases at the time of diagnosis.
 
 ### Dependencies
